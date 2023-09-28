@@ -110,8 +110,8 @@ const data = {
     },
     {
       id: 2,
-      title: "Sem Custo",
-      description: `Com zero custos para sua empresa e seus clientes, tudo que você vê é o retorno.`,
+      title: "Foco em Natal e região ",
+      description: `Agora seus clientes vão ter mais de um motivo para voltar ao seu estabelecimento.`,
     },
     {
       id: 3,

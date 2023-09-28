@@ -2,6 +2,9 @@ import styled from 'styled-components';
 import { themeGet } from '@styled-system/theme-get';
 
 const BannerWrapper = styled.section`
+  .input-text{
+    color: black !important;
+  }
   .btnbb{
     position: relative;
     padding: 15px 20px;

@@ -53,7 +53,7 @@ const Banner = () => {
               Your Address
             </label>
             <img className="mapPin" src={mapPin?.src} alt={title} />
-            <input type="text" placeholder="Digite o seu Whatsapp.." />
+            <input type="text" className='input-text' placeholder="Digite o seu Whatsapp.." />
             <button type="submit" className="bannerBtn">
               <img src={arrowIcon?.src} alt="banner button" />
             </button>

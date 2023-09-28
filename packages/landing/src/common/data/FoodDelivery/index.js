@@ -344,7 +344,7 @@ import bannerBtn2 from 'common/assets/image/foodDelivery/banner-google-play.svg'
 export const BANNER_DATA = {
   sectionImage: bannerImage,
   title: 'Transforme seus clientes em fãs com o BoltBank CashBack!',
-  text: 'O primeiro clube de consumo inteligente do Rio Grande do Norte, totalmente gratuito para empresas e consumidores.',
+  text: 'Aproveite esta oportunidade exclusiva de fazer parte do primeiro clube de consumo inteligente do Rio Grande do Norte, inteiramente gratuito até 29/09/23 ou até alcançarmos 200 lojas cadastradas.',
   tagLine: 'Clique aqui e faça parte!',
   buttons: [
     {
